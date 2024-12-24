@@ -1,0 +1,25 @@
+{
+  "name": "data-handling",
+  "version": "1.0.0",
+  "description": "data handling project",
+  "main": "eslint-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesarAjruli/Data-Handling.git"
+  },
+  "author": "Besar Ajruli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BesarAjruli/Data-Handling/issues"
+  },
+  "homepage": "https://github.com/BesarAjruli/Data-Handling#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.0"
+  },
+  "keywords": []
+}
